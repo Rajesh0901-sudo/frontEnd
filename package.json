@@ -33,7 +33,7 @@
     "rimraf": "^2.6.2",
     "sass": "^1.35.1",
     "uglifyjs": "^2.4.11",
-    "usemin-cli": "^0.5.1"
+    "usemin-cli": "^0.6.0"
   },
   "dependencies": {
     "bootstrap": "^5.0.1",
