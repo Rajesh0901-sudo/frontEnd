@@ -1,0 +1,110 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top{
+    padding-top: 80px;
+    animation-name: fade-in;
+    animation-delay: 1s;
+    animation-duration: 4s;
+}
+.typewrite{
+    text-decoration:none;
+    color:#000d1a;
+}
+.center{
+   margin-top: 150px;
+   margin-bottom: auto;
+}
+@media (min-width:740px){
+    .about-back{
+    background-image: url("/img/apple.png");
+    height: 500px;
+    width: 600px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;}
+}
+
+@media (max-width:700px) {
+    .navbar-brand{
+        margin-left:auto;
+        margin-right:auto; 
+    }
+    
+}
+.card-title{
+    font-size: 200%;
+}
+.card-text{
+    font-size: 105%;
+}
+div.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+.obj-img,.card-img-top{
+    width: 180px;
+    height: 180px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto; 
+}
+.credit{
+    text-decoration: none;
+}
+.mypic{
+    max-width:200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+  .carousel .carousel-item {
+    height: 400px; }
+    .carousel .carousel-item img {
+      top: 0;
+      margin-left: auto;
+      margin-right: auto;
+      min-height: 300px; }
+
+.brand{
+    height:80px;
+    width:150px;
+    margin-left: 50px;
+}
+
+@media(min-width:400px){
+.navbar{
+    background-color: #e6e6e6 ;
+    height: 80px;
+}}
+.navbar-nav{
+    margin-right: 50px;
+}
+.s{
+    min-width: 300px;
+    min-width: 200px;
+}
+.footer{
+    background-color:  #27628E ;
+    color:floralwhite;
+}
+.rb{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.footer a{
+    text-decoration:none;
+    color: floralwhite;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 50%;
+}
+@keyframes fade-in{
+  0%   {opacity:0;}
+  100% {opacity: 1;}
+}
