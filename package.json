@@ -30,7 +30,7 @@
     "node-sass": "^6.0.0",
     "onchange": "^7.1.0",
     "parallelshell": "^3.0.1",
-    "rimraf": "^2.6.2",
+    "rimraf": "^3.0.2",
     "sass": "^1.35.1",
     "uglifyjs": "^2.4.11",
     "usemin-cli": "^0.5.1"
