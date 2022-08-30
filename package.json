@@ -31,7 +31,7 @@
     "onchange": "^7.1.0",
     "parallelshell": "^3.0.1",
     "rimraf": "^2.6.2",
-    "sass": "^1.35.1",
+    "sass": "^1.54.6",
     "uglifyjs": "^2.4.11",
     "usemin-cli": "^0.5.1"
   },
